@@ -1,7 +1,5 @@
 ## script utilizado no SQL server para atualizar permissões de usuários, validando em todas databases da instância;
-<div>
-  <img align="center" alt="Felipe-CSS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-</div>
+
 USE master
 GO
 
