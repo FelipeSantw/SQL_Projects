@@ -5,3 +5,4 @@ INIT,
 NAME = N'BACKUP FULL COM T-SQL',
 STATS = 10
 GO
+-- Alterando
